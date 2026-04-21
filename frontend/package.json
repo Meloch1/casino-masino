@@ -9,3 +9,9 @@
     "preview": "vite preview --config vite.config.ts"
   }
 }
+"dependencies": {
+  "react": "...",
+  "react-dom": "...",
+  "vite": "...",
+  "@vitejs/plugin-react": "..."
+}
